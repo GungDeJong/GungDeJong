@@ -1,4 +1,6 @@
-![gambar](img/banner.png)
+<p align="center">
+  <img src="img/banner.png" alt="gambar">
+</p>
 
 <!--
 **GungDeJong/GungDeJong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
